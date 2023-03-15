@@ -1,0 +1,99 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-08 00:05+0100\n"
+"PO-Revision-Date: 2023-02-27 15:09+0100\n"
+"Last-Translator: Claudiux <claude.clerc@gmail.com>\n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#: settingsWidgets.py:153
+msgid "Move selected entry up"
+msgstr ""
+
+#: settingsWidgets.py:160
+msgid "Move selected entry down"
+msgstr ""
+
+#. settings-schema.json->section_info-modules->title
+msgid "Info Modules"
+msgstr ""
+
+#. settings-schema.json->section_action-modules->title
+msgid "Action Modules"
+msgstr ""
+
+#. settings-schema.json->section_module_deviceinfo->title
+msgid "Device-Info Info Module"
+msgstr ""
+
+#. settings-schema.json->switch_expand-only-device->description
+msgid ""
+"Expand the device sub menu automatically, if only one device is available"
+msgstr ""
+
+#. settings-schema.json->orderlist_device-order->columns->title
+#. settings-schema.json->oderlist_info-modules->columns->title
+#. settings-schema.json->oderlist_action-modules->columns->title
+msgid "Name"
+msgstr ""
+
+#. settings-schema.json->orderlist_device-order->columns->title
+msgid "Expand"
+msgstr ""
+
+#. settings-schema.json->orderlist_device-order->columns->title
+msgid "UUID"
+msgstr ""
+
+#. settings-schema.json->oderlist_info-modules->columns->title
+#. settings-schema.json->oderlist_action-modules->columns->title
+msgid "Enabled"
+msgstr ""
+
+#: display name of module battery
+msgid "Battery Module"
+msgstr ""
+
+#: display name of module deviceinfo
+msgid "Device-Info Module"
+msgstr ""
+
+#: display name of module connectivity
+msgid "Connectivity Module"
+msgstr ""
+
+#: display name of module findmyphone
+msgid "FindMyPhone Module"
+msgstr ""
+
+#: display name of module requestphoto
+msgid "Request Photo Module"
+msgstr ""
+
+#: display name of module ping
+msgid "Ping Module"
+msgstr ""
+
+#: display name of module share
+msgid "Share Module"
+msgstr ""
+
+#: display name of module sftp
+msgid "SFTP Module"
+msgstr ""
+
+#: display name of module sms
+msgid "SMS Module"
+msgstr ""
